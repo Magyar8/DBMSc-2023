@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Dokumentumok/2021/Msc/I. félév/Adatbazis 2/FelevesFeladat_MongoDB_01/MongoDB_API/mongo-java-driver-3.12.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
